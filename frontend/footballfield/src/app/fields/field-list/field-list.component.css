@@ -1,0 +1,66 @@
+.container {
+  margin-top: 40px;
+  padding: 30px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+h1 {  
+  text-align: left;
+  margin-bottom: 10px;
+  color: #343a40;
+  font-size: 36px; 
+}
+.header-actions {
+  display: flex;
+  justify-content: flex-end; /* Đưa nút sang bên phải */
+  /* margin-bottom: 5px; */
+}
+
+.btn-primary {
+  padding: 10px 25px; /* Tạo độ rộng cho nút */
+  font-size: 16px;    /* Tăng kích thước chữ */
+  border-radius: 6px; /* Bo tròn góc nút */
+  background-color: #28a745; /* Màu nền nút */
+  border: none; /* Bỏ viền nút */
+  color: #fff; /* Màu chữ */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Đổ bóng nhẹ */
+  cursor: pointer; /* Con trỏ chuột thành dạng pointer */
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+  text-decoration: none;
+}
+
+.btn-primary:hover {
+  background-color: #218838;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); /* Tăng đổ bóng khi hover */
+}
+
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table thead th {
+  background-color: #007bff;
+  color: #ffffff;
+  text-align: left;
+  padding: 15px;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+.table tbody tr {
+  transition: background-color 0.3s ease;
+}
+
+.table tbody tr:hover {
+  background-color: #f1f1f1;
+}
+
+.table th, .table td {
+  padding: 15px;
+  border-bottom: 1px solid #dee2e6;
+  vertical-align: middle;
+}

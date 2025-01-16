@@ -1,0 +1,24 @@
+<div class="container">
+  <h1>DANH SÁCH SÂN BÓNG</h1>
+  <div class="header-actions">
+    <a routerLink="/fields/add" class="btn btn-primary">Thêm Sân Mới</a>
+  </div>
+  <table class="table">
+    <thead>
+      <tr>
+        <th>Tên Sân</th>
+        <th>Địa Chỉ</th>
+        <th>Giá thuê mỗi giờ</th>
+        <th>Trạng thái</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let field of fields">
+        <td>{{ field.name }}</td>
+        <td>{{ field.location }}</td>
+        <td>{{ field.pricePerHour }}</td>
+        <td>{{ field.isAvailable ? 'Sẵn sàng' : 'Không sẵn sàng' }}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>

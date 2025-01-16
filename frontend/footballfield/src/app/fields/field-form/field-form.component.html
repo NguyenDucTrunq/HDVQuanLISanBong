@@ -1,0 +1,40 @@
+<div class="container">
+  <h1>THÊM SÂN BÓNG</h1>
+
+  <form (ngSubmit)="onSubmit()" #fieldForm="ngForm">
+    <div class="form-wrapper">
+      <!-- Group thông tin sân bóng -->
+      <div class="section">
+        <h3>Thông tin sân</h3>
+        <div class="form-group">
+          <label for="name">Tên Sân</label>
+          <input type="text" id="name" name="name" [(ngModel)]="field.name" class="form-control" required />
+        </div>
+
+        <div class="form-group">
+          <label for="location">Địa Chỉ</label>
+          <input type="text" id="location" name="location" [(ngModel)]="field.location" class="form-control" required />
+        </div>
+
+        <div class="form-group">
+          <label for="pricePerHour">Giá thuê mỗi giờ</label>
+          <input type="number" id="pricePerHour" name="pricePerHour" [(ngModel)]="field.pricePerHour" class="form-control" required />
+        </div>
+      </div>
+
+      <!-- Group trạng thái sân -->
+      <div class="section">
+        <h3>Trạng thái sân</h3>
+        <div class="form-group">
+          <label for="isAvailable">Trạng thái</label>
+          <select id="isAvailable" name="isAvailable" [(ngModel)]="field.isAvailable" class="form-control">
+            <option value="true">Sẵn sàng</option>
+            <option value="false">Không sẵn sàng</option>
+          </select>
+        </div>
+      </div>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Tạo</button>
+  </form>
+</div>

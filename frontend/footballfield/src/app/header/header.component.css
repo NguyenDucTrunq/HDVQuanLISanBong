@@ -1,0 +1,74 @@
+/* Đảm bảo thanh điều hướng dính sát lề trên */
+.navbar {
+  background-color: #333;
+  color: white;
+  padding: 15px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000; /* Đảm bảo thanh điều hướng luôn nằm trên các phần khác */
+}
+
+/* Đảm bảo rằng nội dung phía dưới thanh điều hướng không bị che */
+.navbar-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-right: 20px; /* Tạo khoảng cách giữa lề phải và nội dung */
+}
+
+/* Logo thanh điều hướng */
+.navbar-logo {
+  font-size: 24px;
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+}
+
+/* Menu thanh điều hướng, đẩy sang bên phải */
+.navbar-menu {
+  list-style-type: none;
+  display: flex;
+  text-align: left;
+  gap: 20px;
+  margin-left: auto; /* Đẩy menu sang bên phải */
+  margin-right: 30px; /* Tạo khoảng trống giữa menu và nút đăng xuất */
+}
+
+.navbar-menu li {
+  display: inline;
+}
+
+.navbar-menu li a {
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+  transition: color 0.3s ease;
+}
+
+.navbar-menu li a:hover {
+  color: #ddd;
+}
+
+/* Nút đăng xuất */
+.logout-btn {
+  background-color: #ff3333;
+  color: white;
+  padding: 10px 25px;
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+  margin-left: auto; /* Đảm bảo nút đăng xuất nằm gọn */
+}
+
+.logout-btn:hover {
+  background-color: #cc0000;
+}
+
+/* Đảm bảo phần nội dung không bị che bởi thanh điều hướng */
+body {
+  padding-top: 60px; /* Đặt khoảng trống cho thanh điều hướng */
+}

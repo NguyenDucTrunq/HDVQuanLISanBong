@@ -1,0 +1,74 @@
+/* src/app/booking-list/booking-list.component.css */
+.container {
+    margin-top: 50px;
+    padding: 40px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 40px;
+    color: #343a40;
+    font-size: 28px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.table thead th {
+    background-color: #007bff;
+    color: white;
+    text-align: left;
+    padding: 15px;
+    font-size: 16px;
+    font-weight: 500;
+    text-transform: uppercase;
+    border-bottom: 2px solid #ddd;
+}
+
+.table tbody tr {
+    transition: background-color 0.3s ease;
+}
+
+.table tbody tr:hover {
+    background-color: #f1f1f1;
+}
+
+.table th, .table td {
+    padding: 15px;
+    border-bottom: 1px solid #ddd;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.table td {
+    font-size: 16px;
+    color: #495057;
+}
+
+.table td .badge {
+    padding: 6px 12px;
+    font-size: 14px;
+    font-weight: 600;
+    border-radius: 12px;
+}
+
+.table td .badge-success {
+    background-color: #28a745;
+    color: white;
+}
+
+.table td .badge-danger {
+    background-color: #dc3545;
+    color: white;
+}

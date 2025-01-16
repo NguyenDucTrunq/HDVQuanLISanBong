@@ -1,0 +1,64 @@
+C:\Users\PC\source\repos\FootballFieldManagement\ReportingServices\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\PC\source\repos\FootballFieldManagement\ReportingServices\bin\Debug\net8.0\appsettings.json
+C:\Users\PC\source\repos\FootballFieldManagement\ReportingServices\bin\Debug\net8.0\ReportingServices.exe
+C:\Users\PC\source\repos\FootballFieldManagement\ReportingServices\bin\Debug\net8.0\ReportingServices.deps.json
+C:\Users\PC\source\repos\FootballFieldManagement\ReportingServices\bin\Debug\net8.0\ReportingServices.runtimeconfig.json
+C:\Users\PC\source\repos\FootballFieldManagement\ReportingServices\bin\Debug\net8.0\ReportingServices.dll
+C:\Users\PC\source\repos\FootballFieldManagement\ReportingServices\bin\Debug\net8.0\ReportingServices.pdb
+C:\Users\PC\source\repos\FootballFieldManagement\ReportingServices\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\PC\source\repos\FootballFieldManagement\ReportingServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PC\source\repos\FootballFieldManagement\ReportingServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PC\source\repos\FootballFieldManagement\ReportingServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PC\source\repos\FootballFieldManagement\ReportingServices\obj\Debug\net8.0\ReportingServices.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\FootballFieldManagement\ReportingServices\obj\Debug\net8.0\ReportingServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\FootballFieldManagement\ReportingServices\obj\Debug\net8.0\ReportingServices.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\FootballFieldManagement\ReportingServices\obj\Debug\net8.0\ReportingServices.AssemblyInfo.cs
+C:\Users\PC\source\repos\FootballFieldManagement\ReportingServices\obj\Debug\net8.0\ReportingServices.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\FootballFieldManagement\ReportingServices\obj\Debug\net8.0\ReportingServices.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\source\repos\FootballFieldManagement\ReportingServices\obj\Debug\net8.0\ReportingServices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\source\repos\FootballFieldManagement\ReportingServices\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PC\source\repos\FootballFieldManagement\ReportingServices\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\PC\source\repos\FootballFieldManagement\ReportingServices\obj\Debug\net8.0\staticwebassets\msbuild.ReportingServices.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\source\repos\FootballFieldManagement\ReportingServices\obj\Debug\net8.0\staticwebassets\msbuild.build.ReportingServices.props
+C:\Users\PC\source\repos\FootballFieldManagement\ReportingServices\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ReportingServices.props
+C:\Users\PC\source\repos\FootballFieldManagement\ReportingServices\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ReportingServices.props
+C:\Users\PC\source\repos\FootballFieldManagement\ReportingServices\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\PC\source\repos\FootballFieldManagement\ReportingServices\obj\Debug\net8.0\scopedcss\bundle\ReportingServices.styles.css
+C:\Users\PC\source\repos\FootballFieldManagement\ReportingServices\obj\Debug\net8.0\Reportin.B01E91E1.Up2Date
+C:\Users\PC\source\repos\FootballFieldManagement\ReportingServices\obj\Debug\net8.0\ReportingServices.dll
+C:\Users\PC\source\repos\FootballFieldManagement\ReportingServices\obj\Debug\net8.0\refint\ReportingServices.dll
+C:\Users\PC\source\repos\FootballFieldManagement\ReportingServices\obj\Debug\net8.0\ReportingServices.pdb
+C:\Users\PC\source\repos\FootballFieldManagement\ReportingServices\obj\Debug\net8.0\ReportingServices.genruntimeconfig.cache
+C:\Users\PC\source\repos\FootballFieldManagement\ReportingServices\obj\Debug\net8.0\ref\ReportingServices.dll
+C:\Users\PC\source\repos\SOA cuoi ky\FootballFieldManagement\ReportingServices\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\PC\source\repos\SOA cuoi ky\FootballFieldManagement\ReportingServices\bin\Debug\net8.0\appsettings.json
+C:\Users\PC\source\repos\SOA cuoi ky\FootballFieldManagement\ReportingServices\bin\Debug\net8.0\ReportingServices.exe
+C:\Users\PC\source\repos\SOA cuoi ky\FootballFieldManagement\ReportingServices\bin\Debug\net8.0\ReportingServices.deps.json
+C:\Users\PC\source\repos\SOA cuoi ky\FootballFieldManagement\ReportingServices\bin\Debug\net8.0\ReportingServices.runtimeconfig.json
+C:\Users\PC\source\repos\SOA cuoi ky\FootballFieldManagement\ReportingServices\bin\Debug\net8.0\ReportingServices.dll
+C:\Users\PC\source\repos\SOA cuoi ky\FootballFieldManagement\ReportingServices\bin\Debug\net8.0\ReportingServices.pdb
+C:\Users\PC\source\repos\SOA cuoi ky\FootballFieldManagement\ReportingServices\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\PC\source\repos\SOA cuoi ky\FootballFieldManagement\ReportingServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PC\source\repos\SOA cuoi ky\FootballFieldManagement\ReportingServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PC\source\repos\SOA cuoi ky\FootballFieldManagement\ReportingServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PC\source\repos\SOA cuoi ky\FootballFieldManagement\ReportingServices\obj\Debug\net8.0\ReportingServices.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\SOA cuoi ky\FootballFieldManagement\ReportingServices\obj\Debug\net8.0\ReportingServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\SOA cuoi ky\FootballFieldManagement\ReportingServices\obj\Debug\net8.0\ReportingServices.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\SOA cuoi ky\FootballFieldManagement\ReportingServices\obj\Debug\net8.0\ReportingServices.AssemblyInfo.cs
+C:\Users\PC\source\repos\SOA cuoi ky\FootballFieldManagement\ReportingServices\obj\Debug\net8.0\ReportingServices.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\SOA cuoi ky\FootballFieldManagement\ReportingServices\obj\Debug\net8.0\ReportingServices.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\source\repos\SOA cuoi ky\FootballFieldManagement\ReportingServices\obj\Debug\net8.0\ReportingServices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\source\repos\SOA cuoi ky\FootballFieldManagement\ReportingServices\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PC\source\repos\SOA cuoi ky\FootballFieldManagement\ReportingServices\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\PC\source\repos\SOA cuoi ky\FootballFieldManagement\ReportingServices\obj\Debug\net8.0\staticwebassets\msbuild.ReportingServices.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\source\repos\SOA cuoi ky\FootballFieldManagement\ReportingServices\obj\Debug\net8.0\staticwebassets\msbuild.build.ReportingServices.props
+C:\Users\PC\source\repos\SOA cuoi ky\FootballFieldManagement\ReportingServices\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ReportingServices.props
+C:\Users\PC\source\repos\SOA cuoi ky\FootballFieldManagement\ReportingServices\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ReportingServices.props
+C:\Users\PC\source\repos\SOA cuoi ky\FootballFieldManagement\ReportingServices\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\PC\source\repos\SOA cuoi ky\FootballFieldManagement\ReportingServices\obj\Debug\net8.0\scopedcss\bundle\ReportingServices.styles.css
+C:\Users\PC\source\repos\SOA cuoi ky\FootballFieldManagement\ReportingServices\obj\Debug\net8.0\Reportin.B01E91E1.Up2Date
+C:\Users\PC\source\repos\SOA cuoi ky\FootballFieldManagement\ReportingServices\obj\Debug\net8.0\ReportingServices.dll
+C:\Users\PC\source\repos\SOA cuoi ky\FootballFieldManagement\ReportingServices\obj\Debug\net8.0\refint\ReportingServices.dll
+C:\Users\PC\source\repos\SOA cuoi ky\FootballFieldManagement\ReportingServices\obj\Debug\net8.0\ReportingServices.pdb
+C:\Users\PC\source\repos\SOA cuoi ky\FootballFieldManagement\ReportingServices\obj\Debug\net8.0\ReportingServices.genruntimeconfig.cache
+C:\Users\PC\source\repos\SOA cuoi ky\FootballFieldManagement\ReportingServices\obj\Debug\net8.0\ref\ReportingServices.dll

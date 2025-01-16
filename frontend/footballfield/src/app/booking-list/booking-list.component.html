@@ -1,0 +1,30 @@
+<!-- src/app/booking-list/booking-list.component.html -->
+<div class="container">
+  <h2>Danh sách Booking</h2>
+  <table class="table">
+      <thead>
+          <tr>
+              <th>ID</th>
+              <th>Sân</th>
+              <th>Thời gian bắt đầu</th>
+              <th>Thời gian kết thúc</th>
+              <th>Giá</th>
+              <th>Trạng thái</th>
+          </tr>
+      </thead>
+      <tbody>
+          <tr *ngFor="let booking of bookings">
+              <td>{{ booking.id }}</td>
+              <td>{{ booking.name }}</td>
+              <td>{{ booking.startTime | date:'short' }}</td>
+              <td>{{ booking.endTime | date:'short' }}</td>
+              <td>{{ booking.pricePerHour | currency:'VND' }}</td>
+              <td>
+                  <span [ngClass]="{'badge': true, 'badge-success': booking.isAvailable, 'badge-danger': !booking.isAvailable}">
+                      {{ booking.isAvailable ? 'Có sẵn' : 'Đã đặt' }}
+                  </span>
+              </td>
+          </tr>
+      </tbody>
+  </table>
+</div>

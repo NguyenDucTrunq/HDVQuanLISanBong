@@ -1,0 +1,38 @@
+<!-- src/app/components/booking-form/booking-form.component.html -->
+<div>
+  <h1>Đặt Sân</h1>
+  <form (ngSubmit)="onSubmit()">
+    <div>
+      <label for="field">Chọn Sân</label>
+      <select id="field" [(ngModel)]="booking.fieldId" name="fieldId" required>
+        <option *ngFor="let field of fields" [value]="field.id">
+          {{ field.name }} - {{ field.location }} - {{ field.pricePerHour }} VND/giờ
+        </option>
+      </select>
+    </div>
+    <div>
+      <label for="fieldLocation">Tên sân </label>
+      <input type="text" id="fieldName" [(ngModel)]="booking.name" name="fieldLocation" required>
+    </div>
+    <div>
+      <label for="fieldLocation">Tên địa chi </label>
+      <input type="text" id="fieldLocation" [(ngModel)]="booking.fieldLocation" name="fieldLocation" required>
+    </div>
+    <div>
+      <label for="fieldPrice">Giá thuê sân mỗi giờ</label>
+      <input type="number" id="fieldPrice" [(ngModel)]="booking.pricePerHour" name="fieldPricePerHour" required>
+    </div>
+    <div>
+      <label for="startTime">Thời gian bắt đầu</label>
+      <input type="datetime-local" id="startTime" [(ngModel)]="booking.startTime" name="startTime" required>
+    </div>
+
+    <div>
+      <label for="endTime">Thời gian kết thúc</label>
+      <input type="datetime-local" id="endTime" [(ngModel)]="booking.endTime" name="endTime" required>
+    </div>  
+
+    <button type="submit">Đặt Sân</button>
+  </form>
+  <button (click)="onLogout()">Đăng Xuất</button>
+</div>

@@ -1,0 +1,73 @@
+/* Khung tổng thể */
+div {
+  max-width: 400px;  /* Giảm kích thước chiều rộng */
+  margin: 10px auto; /* Canh giữa và giảm khoảng cách trên-dưới */
+  background-color: #fff;
+  padding: 15px;     /* Giảm padding để gọn hơn */
+  border-radius: 8px; /* Làm mềm góc cạnh */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Giảm độ bóng */
+}
+
+/* Tiêu đề của bảng */
+h2, h1 {
+  text-align: center;
+  color: #333;
+  font-size: 24px; /* Giảm kích thước tiêu đề */
+  margin-bottom: 15px; /* Giảm khoảng cách dưới */
+}
+
+/* Bảng */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 15px; /* Giảm khoảng cách trên */
+}
+
+/* Các ô của bảng */
+table th,
+table td {
+  padding: 8px; /* Giảm padding để nhỏ gọn hơn */
+  text-align: left;
+  border: 1px solid #ddd; /* Giảm độ đậm của đường viền */
+}
+
+/* Tiêu đề của cột */
+table th {
+  background-color: #007bff;
+  color: #fff;
+  font-size: 14px; /* Thu nhỏ font chữ */
+  text-transform: uppercase;
+}
+
+/* Ô nhập liệu */
+input[type="text"],
+input[type="number"],
+input[type="datetime-local"],
+select {
+  width: 100%;
+  padding: 6px; /* Giảm padding để nhỏ gọn hơn */
+  font-size: 14px; 
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+  margin-bottom: 10px; /* Tạo khoảng cách giữa các ô nhập liệu */
+}
+
+/* Nút submit */
+button {
+  width: 100%;
+  padding: 10px; /* Giảm padding */
+  font-size: 14px; /* Giảm font size */
+  color: #fff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-top: 10px; /* Giảm khoảng cách trên */
+}
+
+/* Hiệu ứng hover cho nút submit */
+button:hover {
+  background-color: #0056b3; /* Màu hover nhẹ hơn */
+}

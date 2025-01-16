@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\SOA cuoi ky\\FootballFieldManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF0D29E-A721-41E6-855F-4F2B122F99F1}|BookingService\\BookingService.csproj|c:\\users\\pc\\source\\repos\\soa cuoi ky\\footballfieldmanagement\\bookingservice\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF0D29E-A721-41E6-855F-4F2B122F99F1}|BookingService\\BookingService.csproj|solutionrelative:bookingservice\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E1FB96-CC34-4D3A-8084-C5CE216D0F37}|UserService\\UserService.csproj|c:\\users\\pc\\source\\repos\\soa cuoi ky\\footballfieldmanagement\\userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E1FB96-CC34-4D3A-8084-C5CE216D0F37}|UserService\\UserService.csproj|solutionrelative:userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E1FB96-CC34-4D3A-8084-C5CE216D0F37}|UserService\\UserService.csproj|c:\\users\\pc\\source\\repos\\soa cuoi ky\\footballfieldmanagement\\userservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{00E1FB96-CC34-4D3A-8084-C5CE216D0F37}|UserService\\UserService.csproj|solutionrelative:userservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A713EB-231C-4356-84C8-84A59AE7896F}|FieldService\\FieldService.csproj|c:\\users\\pc\\source\\repos\\soa cuoi ky\\footballfieldmanagement\\fieldservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A713EB-231C-4356-84C8-84A59AE7896F}|FieldService\\FieldService.csproj|solutionrelative:fieldservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A713EB-231C-4356-84C8-84A59AE7896F}|FieldService\\FieldService.csproj|c:\\users\\pc\\source\\repos\\soa cuoi ky\\footballfieldmanagement\\fieldservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{43A713EB-231C-4356-84C8-84A59AE7896F}|FieldService\\FieldService.csproj|solutionrelative:fieldservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A713EB-231C-4356-84C8-84A59AE7896F}|FieldService\\FieldService.csproj|c:\\users\\pc\\source\\repos\\soa cuoi ky\\footballfieldmanagement\\fieldservice\\controllers\\fieldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A713EB-231C-4356-84C8-84A59AE7896F}|FieldService\\FieldService.csproj|solutionrelative:fieldservice\\controllers\\fieldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A713EB-231C-4356-84C8-84A59AE7896F}|FieldService\\FieldService.csproj|c:\\users\\pc\\source\\repos\\soa cuoi ky\\footballfieldmanagement\\fieldservice\\models\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A713EB-231C-4356-84C8-84A59AE7896F}|FieldService\\FieldService.csproj|solutionrelative:fieldservice\\models\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E1FB96-CC34-4D3A-8084-C5CE216D0F37}|UserService\\UserService.csproj|c:\\users\\pc\\source\\repos\\soa cuoi ky\\footballfieldmanagement\\userservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E1FB96-CC34-4D3A-8084-C5CE216D0F37}|UserService\\UserService.csproj|solutionrelative:userservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E1FB96-CC34-4D3A-8084-C5CE216D0F37}|UserService\\UserService.csproj|c:\\users\\pc\\source\\repos\\soa cuoi ky\\footballfieldmanagement\\userservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E1FB96-CC34-4D3A-8084-C5CE216D0F37}|UserService\\UserService.csproj|solutionrelative:userservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF0D29E-A721-41E6-855F-4F2B122F99F1}|BookingService\\BookingService.csproj|c:\\users\\pc\\source\\repos\\soa cuoi ky\\footballfieldmanagement\\bookingservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF0D29E-A721-41E6-855F-4F2B122F99F1}|BookingService\\BookingService.csproj|solutionrelative:bookingservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF0D29E-A721-41E6-855F-4F2B122F99F1}|BookingService\\BookingService.csproj|c:\\users\\pc\\source\\repos\\soa cuoi ky\\footballfieldmanagement\\bookingservice\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF0D29E-A721-41E6-855F-4F2B122F99F1}|BookingService\\BookingService.csproj|solutionrelative:bookingservice\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A713EB-231C-4356-84C8-84A59AE7896F}|FieldService\\FieldService.csproj|c:\\users\\pc\\source\\repos\\soa cuoi ky\\footballfieldmanagement\\fieldservice\\fieldservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{43A713EB-231C-4356-84C8-84A59AE7896F}|FieldService\\FieldService.csproj|solutionrelative:fieldservice\\fieldservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A713EB-231C-4356-84C8-84A59AE7896F}|FieldService\\FieldService.csproj|c:\\users\\pc\\source\\repos\\soa cuoi ky\\footballfieldmanagement\\fieldservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A713EB-231C-4356-84C8-84A59AE7896F}|FieldService\\FieldService.csproj|solutionrelative:fieldservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF0D29E-A721-41E6-855F-4F2B122F99F1}|BookingService\\BookingService.csproj|c:\\users\\pc\\source\\repos\\soa cuoi ky\\footballfieldmanagement\\bookingservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF0D29E-A721-41E6-855F-4F2B122F99F1}|BookingService\\BookingService.csproj|solutionrelative:bookingservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF0D29E-A721-41E6-855F-4F2B122F99F1}|BookingService\\BookingService.csproj|c:\\users\\pc\\source\\repos\\soa cuoi ky\\footballfieldmanagement\\bookingservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF0D29E-A721-41E6-855F-4F2B122F99F1}|BookingService\\BookingService.csproj|solutionrelative:bookingservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF0D29E-A721-41E6-855F-4F2B122F99F1}|BookingService\\BookingService.csproj|c:\\users\\pc\\source\\repos\\soa cuoi ky\\footballfieldmanagement\\bookingservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0BF0D29E-A721-41E6-855F-4F2B122F99F1}|BookingService\\BookingService.csproj|solutionrelative:bookingservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\SOA cuoi ky\\FootballFieldManagement\\UserService\\appsettings.json",
+              "RelativeDocumentMoniker": "UserService\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\SOA cuoi ky\\FootballFieldManagement\\UserService\\appsettings.json",
+              "RelativeToolTip": "UserService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-15T01:01:02.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\SOA cuoi ky\\FootballFieldManagement\\FieldService\\appsettings.json",
+              "RelativeDocumentMoniker": "FieldService\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\SOA cuoi ky\\FootballFieldManagement\\FieldService\\appsettings.json",
+              "RelativeToolTip": "FieldService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-13T06:28:19.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\SOA cuoi ky\\FootballFieldManagement\\BookingService\\Program.cs",
+              "RelativeDocumentMoniker": "BookingService\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\SOA cuoi ky\\FootballFieldManagement\\BookingService\\Program.cs",
+              "RelativeToolTip": "BookingService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T06:28:37.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\SOA cuoi ky\\FootballFieldManagement\\BookingService\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "BookingService\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\SOA cuoi ky\\FootballFieldManagement\\BookingService\\Models\\Booking.cs",
+              "RelativeToolTip": "BookingService\\Models\\Booking.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA+wBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T06:26:19.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\SOA cuoi ky\\FootballFieldManagement\\UserService\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UserService\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\SOA cuoi ky\\FootballFieldManagement\\UserService\\Models\\User.cs",
+              "RelativeToolTip": "UserService\\Models\\User.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T08:09:00.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Field.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\SOA cuoi ky\\FootballFieldManagement\\FieldService\\Models\\Field.cs",
+              "RelativeDocumentMoniker": "FieldService\\Models\\Field.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\SOA cuoi ky\\FootballFieldManagement\\FieldService\\Models\\Field.cs",
+              "RelativeToolTip": "FieldService\\Models\\Field.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T06:37:17.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FieldController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\SOA cuoi ky\\FootballFieldManagement\\FieldService\\Controllers\\FieldController.cs",
+              "RelativeDocumentMoniker": "FieldService\\Controllers\\FieldController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\SOA cuoi ky\\FootballFieldManagement\\FieldService\\Controllers\\FieldController.cs",
+              "RelativeToolTip": "FieldService\\Controllers\\FieldController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAwDsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T06:36:53.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\SOA cuoi ky\\FootballFieldManagement\\BookingService\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "BookingService\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\SOA cuoi ky\\FootballFieldManagement\\BookingService\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "BookingService\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T06:27:54.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\SOA cuoi ky\\FootballFieldManagement\\UserService\\Program.cs",
+              "RelativeDocumentMoniker": "UserService\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\SOA cuoi ky\\FootballFieldManagement\\UserService\\Program.cs",
+              "RelativeToolTip": "UserService\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAD8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T07:39:49.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\SOA cuoi ky\\FootballFieldManagement\\FieldService\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FieldService\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\SOA cuoi ky\\FootballFieldManagement\\FieldService\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "FieldService\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T07:26:56.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\SOA cuoi ky\\FootballFieldManagement\\UserService\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "UserService\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\SOA cuoi ky\\FootballFieldManagement\\UserService\\Controllers\\UserController.cs",
+              "RelativeToolTip": "UserService\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAGEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T07:40:00.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\SOA cuoi ky\\FootballFieldManagement\\BookingService\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "BookingService\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\SOA cuoi ky\\FootballFieldManagement\\BookingService\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "BookingService\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T07:38:06.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FieldService.http",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\SOA cuoi ky\\FootballFieldManagement\\FieldService\\FieldService.http",
+              "RelativeDocumentMoniker": "FieldService\\FieldService.http",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\SOA cuoi ky\\FootballFieldManagement\\FieldService\\FieldService.http",
+              "RelativeToolTip": "FieldService\\FieldService.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-13T07:39:43.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\SOA cuoi ky\\FootballFieldManagement\\BookingService\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BookingService\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\SOA cuoi ky\\FootballFieldManagement\\BookingService\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "BookingService\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T06:27:07.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\SOA cuoi ky\\FootballFieldManagement\\FieldService\\Program.cs",
+              "RelativeDocumentMoniker": "FieldService\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\SOA cuoi ky\\FootballFieldManagement\\FieldService\\Program.cs",
+              "RelativeToolTip": "FieldService\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAUwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T06:28:29.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\SOA cuoi ky\\FootballFieldManagement\\BookingService\\appsettings.json",
+              "RelativeDocumentMoniker": "BookingService\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\SOA cuoi ky\\FootballFieldManagement\\BookingService\\appsettings.json",
+              "RelativeToolTip": "BookingService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-13T06:28:24.682Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
